@@ -1,0 +1,4 @@
+interface:
+  display_name: "滴滴品牌设计审核"
+  short_description: "审核 Logo、口号及 PNG＋SVG 交付：150 PPI、毫米尺寸、转曲嵌入与无水印"
+  default_prompt: "使用 $didi-design-audit 审核这份PNG＋SVG交付，按成品毫米尺寸1:1、PNG 150 PPI核对；结论只有通过或不通过，清晰度不足只注明、不阻止导出。"
